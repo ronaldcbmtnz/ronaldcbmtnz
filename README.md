@@ -3,11 +3,11 @@
 ## About Me
 - 🎓 Studying **Computer Science** at the **University of Havana**.
 - 💻 Passionate about **web development** and **artificial intelligence**.
-- 🌱 Currently learning and improving my skills in **C#**, **Python**, and **Java**.
+- 🌱 Currently learning and improving my skills in **C#**,**C++**, **C**, **Python**, and **Java**.
 - 📫 You can reach me at: [ronald.cb.mtnz@gmail.com].
 
 ## Technical Skills
-- **Programming Languages**: C#, Python, Java.
+- **Programming Languages**: C#, Python, Java, C++, C.
 - **Web Development**: HTML, CSS, JavaScript.
 - **Tools**: Git, Visual Studio.
 
